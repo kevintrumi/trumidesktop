@@ -1,10 +1,10 @@
 .navbar-custom {
     height: 64px;
-    font-size: 20px;
+    font-size: 24px;
 }
 
 .navbar-brand {
-    font-size: 20px;
+    font-size: 24px;
 }
 
 #content{
@@ -17,7 +17,6 @@
 #individual-content{
   text-align: center;
   color: white;
-  text-shadow: 2px 2px 3px black;
   padding-top: 0%;
 }
   
@@ -50,6 +49,10 @@ h1 {
     text-align: center;
     margin-bottom: 20px;
     padding-top: 10px;
+    font-family: 'Roboto', sans-serif;
+    src: url('Roboto/Roboto-Regular.ttf'); 
+    color: #b48291
+
 }
 
 table {
